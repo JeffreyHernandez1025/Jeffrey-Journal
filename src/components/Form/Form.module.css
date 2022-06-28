@@ -1,0 +1,11 @@
+.textarea {
+  width: 400px;
+  height: 100px;
+  margin-top: 100px;
+}
+.saved {
+  border: 5px solid;
+  background-color: grey;
+  background-clip: content-box;
+  margin: 50px;
+}
